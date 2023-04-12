@@ -1,0 +1,31 @@
+java
+
+linux
+
+zepto D:\Program Files\JiJiDown
+
+js
+web前端
+
+hadoop
+package person;
+
+public class person {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Person p1=new Person();
+		System.out.println("这个人的信息");
+		System.out.println();
+
+	}
+
+}
+class Person{
+	int age;
+	String name;
+	double sal;
+	boolean isPass;
+	
+	
+}
